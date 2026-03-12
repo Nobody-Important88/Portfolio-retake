@@ -96,7 +96,6 @@ main {
     border-radius: 20px;
     text-align: center;
     box-shadow: 0 6px 18px rgba(0,0,0,0.15);
-    transition: 0.3s ease;
 }
 
 .insides:hover {
